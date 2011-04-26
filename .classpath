@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="examples/counter/|src/|examples/tests/|examples/sudoku/|examples/consistent-predicates/|examples/accounts/" kind="src" path="jvstm"/>
+	<classpathentry kind="src" path="jvstm/examples/accounts"/>
+	<classpathentry kind="src" path="jvstm/examples/consistent-predicates"/>
+	<classpathentry kind="src" path="jvstm/examples/counter"/>
+	<classpathentry kind="src" path="jvstm/examples/sudoku"/>
+	<classpathentry kind="src" path="jvstm/examples/tests"/>
+	<classpathentry kind="src" path="jvstm/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jvstm/lib/asm-3.0.jar"/>
+	<classpathentry kind="lib" path="jvstm/lib/asm-commons-3.0.jar"/>
+	<classpathentry kind="lib" path="jvstm/lib/asm-tree-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
